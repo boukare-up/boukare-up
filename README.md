@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est Boukare ILBOUDO!
+# 👋 Salut, moi c'est Boukare ILBOUDO !
 
 ### 🛠️ Ingénieur Systèmes Embarqués & IoT | Freelance 🇲🇦
 
@@ -27,8 +27,8 @@ Passionné par l'interaction entre le matériel et le logiciel, j'accompagne les
 
 ### 📊 Mes Statistiques GitHub
 
-![Stats de Boukare-up](https://github-readme-stats.vercel.app/api?username=[TonUsername]&show_icons=true&theme=radical&count_private=true)
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=[TonUsername]&layout=compact&theme=radical)
+![Stats de Boukare-up](https://github-readme-stats.vercel.app/api?username=boukare-up&show_icons=true&theme=radical&count_private=true)
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=boukare-up&layout=compact&theme=radical)
 
 ---
 
@@ -36,8 +36,8 @@ Passionné par l'interaction entre le matériel et le logiciel, j'accompagne les
 
 Je suis disponible pour des missions en **télétravail** ou en format hybride. Discutons de vos besoins techniques !
 
-- **LinkedIn :** [www.linkedin.com/in/boukare-ilboudo-142263378]
-- **Email :** [boukare.ilboudo@uit.ac.ma]
+- **LinkedIn :** [linkedin.com/in/boukare-ilboudo-142263378](https://www.linkedin.com/in/boukare-ilboudo-142263378)
+- **Email :** [boukare.ilboudo@uit.ac.ma](mailto:boukare.ilboudo@uit.ac.ma)
 - **Localisation :** Maroc 🇲🇦 (Remote Friendly)
 
 ---
